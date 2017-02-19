@@ -12,6 +12,6 @@
   "repository": "https://github.com/jdw1996/road-grey-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">0.40.0"
+    "atom": ">=1.0.0 <2.0.0"
   }
 }

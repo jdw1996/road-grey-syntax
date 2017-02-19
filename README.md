@@ -12,6 +12,11 @@ Here's a screenshot of Road Grey, using the
 
 ![Road Grey](https://cloud.githubusercontent.com/assets/17225098/23098548/79c9248c-f61e-11e6-8fe1-7f0668e5d1ff.png)
 
+To install the theme, use the following command from your terminal:
+```
+$ apm install road-grey-syntax
+```
+
 If you have any pointers you'd like to share about my code, find a bug, or want
 to suggest an improvement, feel free to
 [open an issue](https://github.com/jdw1996/road-grey-syntax/issues/new) or

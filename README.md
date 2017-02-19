@@ -1,4 +1,4 @@
-## Road Grey
+## road-grey-syntax
 
 I really like the default One themes for [Atom](https://atom.io/), both
 [light](https://github.com/atom/one-light-syntax) and

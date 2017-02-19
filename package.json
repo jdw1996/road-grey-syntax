@@ -1,13 +1,15 @@
 {
-  "name": "one-light-syntax",
+  "name": "road-grey-syntax",
   "theme": "syntax",
-  "version": "1.7.1",
+  "version": "0.0.0",
   "description": "Atom One light syntax theme",
   "keywords": [
     "light",
-    "syntax"
+    "syntax",
+    "grey",
+    "gray"
   ],
-  "repository": "https://github.com/atom/one-light-syntax",
+  "repository": "https://github.com/jdw1996/road-grey-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.40.0"

@@ -1,11 +1,13 @@
-## One Light Syntax theme
+## Road Grey
 
-![one-syntax-light](https://cloud.githubusercontent.com/assets/378023/7783214/c146b4e6-0174-11e5-8377-a57cf0274d5d.png)
+I really like the default One themes for [Atom](https://atom.io/), both
+[light](https://github.com/atom/one-light-syntax) and
+[dark](https://github.com/atom/one-dark-syntax), but I wanted a light theme
+whose background wasn't simply white, as I find that hard on my eyes. This
+theme uses a grey background and slightly muted colours, as well as a couple
+other changes from the One Light syntax theme it's based on.
 
-> The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
-
-There is also a matching [UI theme](https://atom.io/themes/one-light-ui).
-
-### Install
-
-This theme is installed by default with Atom and can be activated by going to the __Settings > Themes__ section and selecting it from the __Syntax Themes__ drop-down menu.
+If you have any pointers you'd like to share about my code, find a bug, or want
+to suggest an improvement, feel free to
+[open an issue](https://github.com/jdw1996/french-conjugator/issues/new) or
+email me at [jdwinters96@gmail.com](mailto:jdwinters96@gmail.com).

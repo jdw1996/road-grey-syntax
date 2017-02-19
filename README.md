@@ -9,5 +9,5 @@ other changes from the One Light syntax theme it's based on.
 
 If you have any pointers you'd like to share about my code, find a bug, or want
 to suggest an improvement, feel free to
-[open an issue](https://github.com/jdw1996/french-conjugator/issues/new) or
+[open an issue](https://github.com/jdw1996/road-grey-syntax/issues/new) or
 email me at [jdwinters96@gmail.com](mailto:jdwinters96@gmail.com).

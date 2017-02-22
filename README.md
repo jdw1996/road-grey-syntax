@@ -17,6 +17,9 @@ To install the theme, use the following command from your terminal:
 $ apm install road-grey-syntax
 ```
 
+Road Grey theme is also
+[available for GNOME Terminal](https://github.com/jdw1996/road-grey-gnome-terminal).
+
 If you have any pointers you'd like to share about my code, find a bug, or want
 to suggest an improvement, feel free to
 [open an issue](https://github.com/jdw1996/road-grey-syntax/issues/new) or

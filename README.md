@@ -8,9 +8,9 @@ theme uses a grey background and slightly muted colours, as well as a couple
 other changes from the One Light syntax theme it's based on.
 
 Here's a screenshot of Road Grey, using the
-[Input font](http://input.fontbureau.com/preview/?size=14&language=python&theme=monokai&family=InputMono&width=200&weight=400&line-height=1.1&a=0&g=ss&i=serif&l=serif&zero=slash&asterisk=0&braces=0&preset=default&customize=please):
+[Iosevka font](https://be5invis.github.io/Iosevka/):
 
-![Road Grey](https://cloud.githubusercontent.com/assets/17225098/23098548/79c9248c-f61e-11e6-8fe1-7f0668e5d1ff.png)
+![Road Grey](https://cloud.githubusercontent.com/assets/17225098/23291423/6a7aee28-fa26-11e6-85ea-6a8280c8f9ac.png)
 
 To install the theme, use the following command from your terminal:
 ```

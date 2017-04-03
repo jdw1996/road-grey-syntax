@@ -8,9 +8,9 @@ theme uses a grey background and slightly muted colours, as well as a couple
 other changes from the One Light syntax theme it's based on.
 
 Here's a screenshot of Road Grey, using the
-[Iosevka font](https://be5invis.github.io/Iosevka/):
+[Go Mono font](https://fontlibrary.org/en/font/go-mono):
 
-![Road Grey](https://cloud.githubusercontent.com/assets/17225098/23291423/6a7aee28-fa26-11e6-85ea-6a8280c8f9ac.png)
+![Road Grey](https://cloud.githubusercontent.com/assets/17225098/24595409/48a7bf5a-1804-11e7-9aa7-e4fc6b1bf4d3.png)
 
 To install the theme, use the following command from your terminal:
 ```

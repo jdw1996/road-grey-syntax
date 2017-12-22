@@ -1,5 +1,8 @@
 ## road-grey-syntax
 
+**This repository is no longer maintained.  If you are interested in
+maintaining it, please let me know.**
+
 I really like the default One themes for [Atom](https://atom.io/), both
 [light](https://github.com/atom/one-light-syntax) and
 [dark](https://github.com/atom/one-dark-syntax), but I wanted a light theme
